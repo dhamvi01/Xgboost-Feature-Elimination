@@ -1,5 +1,3 @@
-#https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
